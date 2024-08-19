@@ -57,7 +57,9 @@ Ensure your dataset is structured as follows:
 ```
 
 3. **Run the training script:**
-   ```   python main.py
+   ```
+   python main.py
+   ```
    
 
 ## Customization
